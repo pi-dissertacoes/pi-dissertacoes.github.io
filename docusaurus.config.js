@@ -78,7 +78,8 @@ const config = {
             position: "left",
             label: "Documentation",
           },
-          
+          { to: "/milestone", label: "Milestones", position: "left" },
+
           {
             href: "https://github.com/pi-dsd/",
             label: "GitHub",
@@ -98,48 +99,9 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Distribuição de Serviço Docente. Built with Docusaurus.`,
+        copyright: `Projeto em Informática <br>
+        Distribuição de Serviço Docente
+        <br> Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: prismThemes.github,
