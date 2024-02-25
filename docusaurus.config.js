@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "DSD",
-  tagline: "Dinosaurs are cool",
+  tagline: "Apoio ao Serviço Docente",
   favicon: "img/icons/logo_min.svg",
 
   // Set the production url of your site here
@@ -73,15 +73,15 @@ const config = {
         },
         items: [
           {
+            type: 'docsVersionDropdown',
+          },
+          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Documentation",
           },
           { to: "/milestones", label: "Milestones", position: "left" },
-
-          {to: "/blog", label: "Blog", position: "left" },
-
           {
             href: "https://github.com/pi-dsd/",
             label: "GitHub",
