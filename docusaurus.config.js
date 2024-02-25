@@ -78,7 +78,9 @@ const config = {
             position: "left",
             label: "Documentation",
           },
-          { to: "/milestone", label: "Milestones", position: "left" },
+          { to: "/milestones", label: "Milestones", position: "left" },
+
+          {to: "/blog", label: "Blog", position: "left" },
 
           {
             href: "https://github.com/pi-dsd/",
