@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "pi-dsd", // Usually your GitHub org/user name.
   projectName: "microsite", // Usually your repo name.
-
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
@@ -41,17 +41,9 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -93,7 +85,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://drive.google.com/drive/folders/1vwznbTZrtqVU5NMSli3AQfWFhG4GNvT2?usp=drive_link",
+            href: "https://drive.google.com/drive/folders/1vwznbTZrtqVU5NMSli3AQfWFhG4GNvT2?usp=sharing",
             label: "Drive",
             position: "right",
           },

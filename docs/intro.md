@@ -2,46 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Here we will divide our work in the thing we do
 
-## Getting Started
+## Our Team ✨
 
-Get started by **creating a new site**.
+|  <a href="https://github.com/P-Ramos16"><img src="https://avatars0.githubusercontent.com/P-Ramos16?v=3" width="150px;" alt="Ramos"/><br/>**Pedro Ramos**<br/>*107348*<hr/>**Backend**<br/><a href="https://github.com/P-Ramos16" title="Code">💻</a> <a href="https://github.com/P-Ramos16" title="Tests">⚠️</a> <a href="https://github.com/P-Ramos16" title="Tools">🔧</a></a> | <a href="https://github.com/FiNeX96"><img src="https://avatars0.githubusercontent.com/FiNeX96?v=3" width="150px;" alt="Aguiar"/><br/>**Rodrigo Aguiar**<br/>*108969*<hr/>**Backend**<br/><a href="https://github.com/FiNeX96" title="Code">💻</a><a href="https://github.com/FiNeX96" title="Tools">🔀</a><a href="https://github.com/FiNeX96" title="Tools">🔧</a></a> | <a href="https://github.com/Dan1m4D"><img src="https://avatars0.githubusercontent.com/Dan1m4D?v=3" width="150px;" alt="Madureira"/><br/>**Daniel Madureira**<br/>*107603*<hr/>**Frontend**<br/><a href="https://github.com/Dan1m4D" title="Code">💻</a><a href="https://github.com/Dan1m4D" title="Design">🎨</a><a href="https://github.com/Dan1m4D" title="Tools">🔧</a></a> | <a href="https://github.com/zegameiro"><img src="https://avatars0.githubusercontent.com/zegameiro?v=3" width="150px;" alt="Gameiro"/><br/>**José Gameiro**<br/>*108840*<hr/>**Frontend**<br/><a href="https://github.com/zegameiro" title="Code">💻</a><a href="https://github.com/zegameiro" title="Blogposts">📝</a><a href="https://github.com/zegameiro" title="Tools">🔧</a></a> | <a href="https://github.com/jnluis"><img src="https://avatars0.githubusercontent.com/jnluis?v=3" width="150px;" alt="John"/><br/>**João Luis**<br/>*107403*<hr/>**Frontend**<br/><a href="https://github.com/jnluis" title="Code">💻</a><a href="https://github.com/jnluis" title="Tools">🎯</a><a href="https://github.com/jnluis" title="Tools">🔧</a></a> |
+| --- | --- | --- | --- | --- |
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
