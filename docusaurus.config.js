@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "DSD",
-  tagline: "Apoio de Serviço Docente",
+  tagline: "Apoio ao Serviço Docente",
   favicon: "img/icons/logo_min.svg",
 
   // Set the production url of your site here
@@ -94,7 +94,7 @@ const config = {
       footer: {
         style: "dark",
         copyright: `Projeto em Informática <br>
-        Distribuição de Serviço Docente
+        Apoio ao Serviço Docente
         <br> Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
