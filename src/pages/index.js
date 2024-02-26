@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-
+          {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
       </div>
@@ -26,6 +26,7 @@ export default function Home() {
   return (
     <Layout
       description="Description will go into a meta tag in <head />">
+
       <HomepageHeader />
       <main>
         <HomepageFeatures />
