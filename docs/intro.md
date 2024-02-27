@@ -4,7 +4,10 @@ sidebar_position: 1
 
 # Welcome
 
-Here we will divide our work in the thing we do
+📚 **Welcome to our documentation section!** 🚀
+
+We're thrilled to have you here as we embark on this journey together. In this documentation, you'll find everything you need to know about our project, from its inception to its current state. 🌟
+
 
 ## Our Team ✨
 
