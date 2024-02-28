@@ -58,7 +58,7 @@ so that those images can be used by proponents when adding a new dissertation;
 3. Accept dissertation -
 
 <p align="center">
-    ![Student Use Case diagram](../../static/img/requirements/Use_cases_PI.png)
+    ![Student Use Case diagram](../../../static/img/requirements/Use_cases_PI.png)
 </p>
 
 ### Teacher:
@@ -70,7 +70,7 @@ so that those images can be used by proponents when adding a new dissertation;
 3. Accept student - 
 
 <p align="center">
-    ![Teacher Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_1.png)
+    ![Teacher Use Case diagram](../../../static/img/requirements/Use_cases_PI_-_Page_1.png)
 </p>
 
 ### Admin:
@@ -78,6 +78,6 @@ so that those images can be used by proponents when adding a new dissertation;
 1. Accept dissertation - 
 
 <p align="center">
-    ![Admin Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_2.png)
+    ![Admin Use Case diagram](../../../static/img/requirements/Use_cases_PI_-_Page_2.png)
 </p>
 

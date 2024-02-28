@@ -2,18 +2,18 @@
 
 Add dissertation:
 <p align="center">
-    ![architecture diagram](../../static/img/prototype/AddDissertation.png)
+    ![architecture diagram](../../../static/img/prototype/AddDissertation.png)
 </p>
 
 See list os dissertations:
 <p align="center">
-    ![architecture diagram](../../static/img/prototype/DissertationsPage.png)
+    ![architecture diagram](../../../static/img/prototype/DissertationsPage.png)
 </p>
 
 List all dissertations by a teacher:
 
 <p align="center">
-    ![architecture diagram](../../static/img/prototype/DissertationsTeachersPage.png)
+    ![architecture diagram](../../../static/img/prototype/DissertationsTeachersPage.png)
 </p>
 
 ## Usability tests:
