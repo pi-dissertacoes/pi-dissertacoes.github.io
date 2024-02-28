@@ -1,6 +1,17 @@
-## Actors
+## Actors:
 
-## User stories:
+### Student: 
+
+Makes use of the system as a potential user of the services provided by that system;
+
+### Teacher:
+
+
+Makes use of the system as a potential user of the services provided by that system;
+
+### Admin:
+
+Responsible for ensuring that the system is properly working, and intermediate contact between the other actors.
 
 ### Student: 
 
@@ -16,11 +27,15 @@ so that i can select an internship;
 I want to confirm my choice ("marriage") about one of the dissertations the supervisor confirmed  
 so that i can start to work on that dissertation;
 
-### Supervisor:
+### Teacher:
 
-1. As a supervisor  
+1. As a teacher  
 I want to be able to add the dissertations proposal's that I'am going to guide in that year, (could be or not co-supervised)  
 so that student's can then read and show interest on them;
+
+2. As a teacher
+I want to confirm the "marriage" between me and the student that confirmed interest on my proposal
+so that the next steps can be taken
 
 ### Admin:
 
@@ -32,4 +47,37 @@ so that student's can then read and show interest on them;
 I want to be able to add institute/companies logo's to the System DB  
 so that those images can be used by proponents when adding a new dissertation;
 
-## Use Cases
+## Use Cases (To be completed)
+
+### Student:
+
+1. Show interest - 
+
+2. See dissertations -
+
+3. Accept dissertation -
+
+<p align="center">
+    ![Student Use Case diagram](../../static/img/requirements/Use_cases_PI.png)
+</p>
+
+### Teacher:
+
+1. Add dissertation proposal - 
+
+2. Show interested students - 
+
+3. Accept student - 
+
+<p align="center">
+    ![Teacher Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_1.png)
+</p>
+
+### Admin:
+
+1. Accept dissertation - 
+
+<p align="center">
+    ![Admin Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_2.png)
+</p>
+

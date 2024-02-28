@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "DSD",
-  tagline: "Apoio ao Serviço Docente",
+  tagline: "Serviço Docente",
   favicon: "img/icons/logo_min.svg",
 
   // Set the production url of your site here
@@ -75,7 +75,7 @@ const config = {
           },
           { to: "/milestones", label: "Milestones", position: "left" },
           {
-            href: "https://github.com/pi-dsd/",
+            href: "https://github.com/detiuaveiro/dsd",
             label: "GitHub",
             position: "right",
           },
@@ -93,8 +93,15 @@ const config = {
       },
       footer: {
         style: "dark",
+        logo: {
+          alt: 'Our repo Logo',
+          src: '/img/icons/github-mark-white.svg',
+          href: 'https://github.com/pi-dsd/microsite',
+          width: 24,
+          height: 24,
+        },
         copyright: `Projeto em Informática <br>
-        Apoio ao Serviço Docente
+        Serviço Docente
         <br> Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
