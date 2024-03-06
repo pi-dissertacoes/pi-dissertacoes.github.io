@@ -24,8 +24,8 @@ so that i can select one;
 I want to know more about internship offers by DETI  
 so that i can select an internship;
 
-3. As a student
-I want to check the status of the dissertations im interested in 
+3. As a student  
+I want to check the status of the dissertations im interested in  
 so that i can check if the teacher has accepted me as the student for it;
 
 ### Teacher:
@@ -35,7 +35,7 @@ I want to be able to add the dissertations proposal's that I'am going to guide i
 so that student's can then read and show interest on them;
 
 2. As a teacher
-I want to confirm the "marriage" between me and the student that confirmed interest on my proposal
+I want to confirm the "marriage" between me and the student that confirmed interest on my proposal  
 so that the next steps can be taken;
 
 ### Admin:
@@ -48,11 +48,11 @@ so that the next steps can be taken;
 I want to be able to add institute/companies logo's to the System DB  
 so that those images can be used by proponents when adding a new dissertation;
 
-3. As an admin
-I want to be able to introduce/change features in the system
+3. As an admin  
+I want to be able to introduce/change features in the system  
 so that the system can be improved and updated;
 
-## Use Cases (To be completed)
+## Use Cases 
 
 ### Student:
 
