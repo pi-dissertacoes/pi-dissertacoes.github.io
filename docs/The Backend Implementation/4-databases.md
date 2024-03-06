@@ -43,9 +43,9 @@ This allows the better utilization of each database's **core strengths** as they
 
  Due to the **volatile** and **highly customizable** nature of these models, a database that could easily be adapted to new model formats was necessary.
 
- This means that the typical SQL databases are **not adequate** for our type of data structures, so a **NoSQL database was chosen instead**.
+ This means that the typical SQL databases are **not adequate** for our type of data structures, so a **[NoSQL](https://en.wikipedia.org/wiki/NoSQL) database was chosen instead**.
 
- Most NoSQL databases are much more recent than the SQL databases we are used to, and since all the components in this project must have certified **long term support**, the **MongoDB database was chosen**.
+ Most NoSQL databases are much more recent than the SQL databases we are used to, and since all the components in this project must have certified **long term support**, the **[MongoDB](https://www.mongodb.com/) database was chosen**.
 
  MongoDB allows the **models to be changed without affecting the compatibility of old data models**, meaning that changes made to the database will still always allow for old data to be processed along with new data.
 
@@ -79,4 +79,4 @@ This allows the better utilization of each database's **core strengths** as they
 
  So for **configurations and "magic numbers"**, we had to implement a place where all the instances could reach and get the necessary values.
 
- To do this, we chose to add a **MariaDB implementation** so that we did not have to worry about **concurrency** between all the instances and the data changes, as well as allowing all the configuration data to be **stored in the same, easy to edit file**.
+ To do this, we chose to add a **[MariaDB](https://mariadb.org/) implementation** so that we did not have to worry about **concurrency** between all the instances and the data changes, as well as allowing all the configuration data to be **stored in the same, easy to edit file**.
