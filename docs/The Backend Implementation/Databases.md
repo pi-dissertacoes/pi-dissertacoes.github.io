@@ -31,7 +31,13 @@ For better **separation, maintainability, scalability and performance**, the per
 
 This allows the better utilization of each database's **core strengths** as they are needed in the multitude of tasks that the **API Instances** are required to perform.
 
+---
+
 ### Main Database
+
+  <p align="center">
+      ![architecture diagram](../../static/img/mongodb.png)
+  </p>
 
  The **models** mentioned previously as well as most of the data processed are **saved in the Main Database**.
 
@@ -45,7 +51,13 @@ This allows the better utilization of each database's **core strengths** as they
 
  Another key feature that drove our decision is the ability to easily convert a **mongoDB document into a JSON object** that could easily be natively worked on inside our python codebase, **without the need for complicated operations** such as joins, aggregations, etc... 
 
+---
+
 ### File Storage 
+
+  <p align="center">
+      ![architecture diagram](../../static/img/cloud_storage.png)
+  </p>
 
  **Storing large files** (ex: PDF files from dissertations or dissertation logos) would take a lot of **I/O throughput** away from the rest of the Main Database as well as use a lot of the machine's available **storage space**.
 
@@ -55,7 +67,13 @@ This allows the better utilization of each database's **core strengths** as they
 
  This allows the asynchronous storage and retrieval of files **without impacting the Main Database's** throughput capacity or performance.
 
+---
+
 ### Configuration Database 
+
+  <p align="center">
+      ![architecture diagram](../../static/img/mariadb.png)
+  </p>
 
  Since **there can be a lot of API Instances running at any given time**, changes made to the configuration must be made in such a way that all the instances must pick up the new changes as soon as they use them. 
 
