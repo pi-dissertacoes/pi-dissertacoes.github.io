@@ -1,7 +1,7 @@
 # API Instances
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/fastapi.jpg)
+    ![architecture diagram](../../static/img/python_fastapi.png)
 </p>
 
 ---
@@ -43,7 +43,13 @@
 
 ## The FastAPI implementation
 
+<p align="center">
+    ![architecture diagram](../../static/img/fastapi.png)
+</p>
+
  The final API codebase was divided into **multiple subsections**:
+
+---
 
 ### Endpoints
  
@@ -52,6 +58,8 @@
  All the endpoint's documentation can be found on the **Swagger documentation** on the API itself, at [**localhost:8080/docs**](localhost:8080/docs) (the application must be on in order for this page to work).
 
  The endpoints consist of **CRUD** and **other functions** that operate on the **models** and **local files** that have been inserted into the backend.
+
+---
 
 ### Models
 
@@ -65,6 +73,8 @@
 
  Using the [**pydantic**](https://pydantic.dev/) library, all the models automatically apply **data consistency checks**, valid value checks, **default values**, etc for all the parameters and variables stored inside a given model object, allowing for a much **easier and cleaner code** implementation. 
 
+---
+
 ### Repositories
 
  For **interacting with the main database**, a set of repository actions was implemented that allow the **abstraction** of the database components in the rest of the application.
@@ -72,6 +82,8 @@
  These repositories apply the necessary database operations to the main Database given a set of predefined parameters, and respond with the semi-processed outcome of the database.
 
  These are essential to **ensure that the database is not overloaded** with bad requests from other functions, that the database threads are used **efficiently** and that access to the database is **easy to alter**.
+
+---
 
 ### Utils
 
@@ -84,11 +96,15 @@
   - Managing **local files** from the Filesystem;
   - etc.
 
+---
+
 ### Templates
 
  These templates are used by [**Jinja**](https://jinja.palletsprojects.com/en/3.1.x/) and the API to **generate simple HTML code**.
 
  The generated file can then be sent to an **email notification** or used to **list all the data collected** throughout the year (useful for collecting information from the previous year for backups).
+
+---
 
 ### Tests
 
