@@ -46,7 +46,7 @@
     ![architecture diagram](../../static/img/docker.png)
 </p>
 
- For the docarization of our application, the following containers were defined:
+ For the dockerization of our application, the following containers were defined:
   - Application (frontend)
   - Api Instance (multiple can be created at once)
   - Load Balancer
@@ -57,7 +57,7 @@
 
 ### Docker Networks
 
- Another advantage of docker compose is the ability to create multiple seperate networks between containers.
+ Another advantage of docker compose is the ability to create multiple separate networks between containers.
 
  In our application the following networks were created:
   - frontend_network (App ⇄ Frontend Server)
@@ -68,7 +68,7 @@
 
 ### Docker Volumes
 
- Both the MongoDB and the Cloud Service require the usage of volumes mapped to the host's filesystem
+ Both MongoDB and the Cloud Service require the use of volumes mapped to the host's filesystem.
 
  In our application the following volumes were created:
   - mongodbdata (MongoDB Data)
@@ -84,6 +84,6 @@
 
  A Kubernetes K3s implementation was partially implemented, but would require more work to be put into it in order to be production ready.
 
- Since the final production environment will only be consitituted of a single server, the kubernete's main feature of load balancing between machines would not be of any use.
+ Since the final production environment will only consist of a single server, the kubernete's main feature of load balancing between machines would not be of any use.
 
- The final production version will include a kubernetes file which will launch the containers and do the apropriate load balancing, but more testing must be done in order to apply the changes to production. 
+ The final production version will include a kubernetes file which will launch the containers and do the appropriate load balancing, but more testing must be done in order to apply the changes to production. 
