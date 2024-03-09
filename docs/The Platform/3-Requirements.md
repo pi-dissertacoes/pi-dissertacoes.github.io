@@ -92,3 +92,52 @@ so that the system can be improved and updated;
 </p>
 
 ## Non-functional
+
+### Performance
+
+- The system should maintain consistent response times as the user base or data volume increases;
+- The system should be able to handle an increasing number of transactions or requests per unit of time.
+
+### Scalability
+
+- The system should accomodate a growing volume of data without significant degradation in performance;
+- The system should support horizontal scaling by distributing workloads accross multiple servers or nodes;
+- The system should support vertical scaling by allowing the addition of more resources to a single server;
+- Ensure that vertical scaling provides a proportional increase in performance.
+
+### Availability and Fault Tolerance
+
+- In the event of a server failure, the system should automatically redirect traffic to an available server in a short period of time, to minimize service disruption;
+- The system shall achieve a minimum uptime of 99.99% over any consecutive 30-day period, excluding scheduled maintenance windows;
+- The system should remain available and responsive in the event of component failures or increased load;
+- There should be sufficient capacity to accommodate the failover of services without impacting performance.
+
+### Load Balancing
+
+- The system should distribute incoming requests evenly across multiple servers to ensure balanced resource utilization;
+- Load balancers should scale seamlessly to handle increased network traffic.
+
+### Data Partitioning and Integrity
+
+- The system should be able to shard data effectively to distribute it accross multiple nodes.
+- The system shall implement thorough input validation mechanisms to ensure that only valid and properly formatted data is accepted;
+
+### Security
+
+- Access permissions should be based on roles to ensure proper authorization (RBAC - Role-Based Access Control);
+- All sensitive data transmitted over the network should be encrypted using secure protocols (e.g., TLS/SSL);
+- Implement secure CORS policies to prevent unauthorized access from web applications.
+
+### Logging and Monitoring
+
+- Implement logging for all significant system events, errors and warnings;
+- Log entries should incluse timestamps to facilitate the analysis of events over time;
+- Logs should be stored centrally to facilitate easy monitoring and analysis;
+- Define and enforce access controls for log files to ensure that only authorized personnel can view and modify logs.
+
+### Usability and User Interface
+
+- Include in the user interface common elements, such as navigation menus and buttons, should maintain consistent placement and behavior throughout the application, reducing cognitive load for users;
+- Minimize the loading of UI elements, aiming for swift responses to user interactions to enhance perceived performance and usability;
+- Provide clear and concise error messages that help users understand issues and guide them toward corrective actions;
+- Incorporate inline help and tooltips strategically to provide additional information or guidance without cluttering the interface.
