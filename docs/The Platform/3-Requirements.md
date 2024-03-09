@@ -1,20 +1,31 @@
 
 ## Functional
 
+
+### Dissertation Management
+
+- The system must allow teachers to upload/edit/delete dissertation proposals;
+- The system must allow students to show interest in multiple dissertations and accept only one;
+- The system must allow administrators to accept or deny dissertation proposals by teachers.
+- The system must allow teachers to add dissertation proposals and accept students for them;
+
+### User Management
+
+- The system should allow students to check their dissertation status and manage their proposals;
+- The system should allow teachers to manage their proposals, check interested students and accept them for their proposals;
+- The system should allow administrators to manage the dissertation season and manage the system's users.
+
 ### User Authentication
 
-- The system will provide a login mechanism that uses UA idp.
+- The system should provide a login mechanism using UA's idp through OAuth2;
+- The system should restrict user access to certain features based on their role (e.g., student, teacher, administrator).
+- The system must do various checks based on user attributes to ensure that only authorized users can access certain features.
 
 ### Search Functionality
 
 - The search feature should allow users to search for dissertations based on various criteria, such as title, advisor, courses, areas, publication date;
-- The system will provide advanced search options such as filters and sorting.
+- The system should provide advanced search options such as filters and sorting.
 
-### Order Processing
-
-- The system must allow students to show interest in multiple dissertations and accept only one;
-- The system must allow teachers to add dissertation proposals and accept students for them;
-- The system must allow administrators to accept or deny dissertation proposals and manage the dissertation season.
 
 ### Notification System
 
@@ -24,10 +35,6 @@
 
 - The system should automate approval workflows for dissertation proposals, ensuring that they are reviewed and approved by the appropriate parties before being published;
 - Notifications should be sent to the relevant users when a proposal is submitted, approved, or rejected.
-
-### Document management
-
-- The system must allow users to upload, download, update and delete documents;
 
 ## Non-functional
 
