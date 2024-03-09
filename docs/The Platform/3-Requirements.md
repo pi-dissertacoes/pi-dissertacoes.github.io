@@ -1,95 +1,33 @@
 
 ## Functional
 
-### Actors:
+### User Authentication
 
-#### Student: 
+- The system will provide a login mechanism that uses UA idp.
 
-Makes use of the system as a potential user of the services provided by that system;
+### Search Functionality
 
-#### Teacher:
+- The search feature should allow users to search for dissertations based on various criteria, such as title, advisor, courses, areas, publication date;
+- The system will provide advanced search options such as filters and sorting.
 
-Makes use of the system as a potential user of the services provided by that system;
+### Order Processing
 
-#### Admin:
+- The system must allow students to show interest in multiple dissertations and accept only one;
+- The system must allow teachers to add dissertation proposals and accept students for them;
+- The system must allow administrators to accept or deny dissertation proposals and manage the dissertation season.
 
-Responsible for ensuring that the system is properly working, and intermediate contact between the other actors;
+### Notification System
 
-### User stories
+- The system will included a notification system to alert users about important events, such as new dissertations, acceptance of proposals, and changes in the status of a dissertation.
 
-#### Student: 
+### Workflow Automation
 
-1. As a student  
-I want to know more about some dissertations that i am interested  
-so that i can select one;
+- The system should automate approval workflows for dissertation proposals, ensuring that they are reviewed and approved by the appropriate parties before being published;
+- Notifications should be sent to the relevant users when a proposal is submitted, approved, or rejected.
 
-2. As a student  
-I want to know more about internship offers by DETI  
-so that i can select an internship;
+### Document management
 
-3. As a student  
-I want to check the status of the dissertations im interested in  
-so that i can check if the teacher has accepted me as the student for it;
-
-#### Teacher:
-
-1. As a teacher  
-I want to be able to add the dissertations proposal's that I'am going to guide in that year, (could be or not co-supervised)  
-so that student's can then read and show interest on them;
-
-2. As a teacher
-I want to confirm the "marriage" between me and the student that confirmed interest on my proposal  
-so that the next steps can be taken;
-
-#### Admin:
-
- 1. As an admin  
- I want to see if there are any unapproved dissertations proposed by supervisors  
- so they could be seen by all student's, after my approval;
-
-2. As an admin  
-I want to be able to add institute/companies logo's to the System DB  
-so that those images can be used by proponents when adding a new dissertation;
-
-3. As an admin  
-I want to be able to introduce/change features in the system  
-so that the system can be improved and updated;
-
-### Use Cases 
-
-#### Student:
-
-1. Show interest - Select a dissertation and register as interested in the system;
-
-2. See dissertations - View all dissertation proposals in the form of a list;
-
-3. Confirm dissertation interest - After acceptance of the teacher, confirm the interest in the dissertation;
-
-<p align="center">
-    ![Student Use Case diagram](../../static/img/requirements/Use_cases_PI.png)
-</p>
-
-#### Teacher:
-
-1. Add dissertation proposal - Add a dissertation proposal, composed of a file and metadata ( title, description, etc... );
-
-2. Show interested students in a dissertation - Be able to see the students that showed interest in a dissertation I proposed to choose a student to work with;
-
-3. Accept student for a dissertation - Finalize the proccess by confirming a student to work in a dissertation;
-
-<p align="center">
-    ![Teacher Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_1.png)
-</p>
-
-#### Admin:
-
-1. Accept dissertation proposal - Check all the dissertations that have not been accepted yet by system administrators and accept or deny them;
-
-2. Manage dissertation season - Be able to open and close the dissertation season, so that no more dissertations can be added for the respective academic year;
-
-<p align="center">
-    ![Admin Use Case diagram](../../static/img/requirements/Use_cases_PI_-_Page_2.png)
-</p>
+- The system must allow users to upload, download, update and delete documents;
 
 ## Non-functional
 
