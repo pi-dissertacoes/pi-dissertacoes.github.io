@@ -1,7 +1,6 @@
 
 ## Functional
 
-
 ### Dissertation Management
 
 - The system must allow teachers to upload/edit/delete dissertation proposals;
@@ -35,6 +34,7 @@
 
 - The system should automate approval workflows for dissertation proposals, ensuring that they are reviewed and approved by the appropriate parties before being published;
 - Notifications should be sent to the relevant users when a proposal is submitted, approved, or rejected.
+
 
 ## Non-functional
 
