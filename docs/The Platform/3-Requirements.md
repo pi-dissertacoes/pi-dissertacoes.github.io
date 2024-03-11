@@ -72,13 +72,16 @@
 - Access permissions should be based on roles to ensure proper authorization (RBAC - Role-Based Access Control);
 - All sensitive data transmitted over the network should be encrypted using secure protocols (e.g., TLS/SSL);
 - Implement secure CORS policies to prevent unauthorized access from web applications.
+- Define and enforce access controls for log files to ensure that only authorized personnel can view and modify logs.
 
-### Logging and Monitoring
+### Maintainability
 
+- The system shall be designed with a modular architecture, facilitating independent updates and modifications to specific components without affecting the entire codebase;
+- All code modules and functions shall be adequately documented, providing clear explanations of their purpose, inputs, outputs, and usage to aid developers during maintenance;
+- System configuration settings should be stored in easily modifiable and well-organized database, reducing the need for code changes to configure updates;
 - Implement logging for all significant system events, errors and warnings;
 - Log entries should incluse timestamps to facilitate the analysis of events over time;
 - Logs should be stored centrally to facilitate easy monitoring and analysis;
-- Define and enforce access controls for log files to ensure that only authorized personnel can view and modify logs.
 
 ### Usability and User Interface
 
