@@ -80,7 +80,7 @@
 - All code modules and functions shall be adequately documented, providing clear explanations of their purpose, inputs, outputs, and usage to aid developers during maintenance;
 - System configuration settings should be stored in easily modifiable and well-organized database, reducing the need for code changes to configure updates;
 - Implement logging for all significant system events, errors and warnings;
-- Log entries should incluse timestamps to facilitate the analysis of events over time;
+- Log entries should include timestamps to facilitate the analysis of events over time;
 - Logs should be stored centrally to facilitate easy monitoring and analysis;
 
 ### Usability and User Interface
