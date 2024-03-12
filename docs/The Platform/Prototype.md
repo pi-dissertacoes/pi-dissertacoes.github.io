@@ -15,5 +15,3 @@ List all dissertations by a teacher:
 <p align="center">
     ![architecture diagram](../../static/img/prototype/DissertationsTeachersPage.png)
 </p>
-
-## Usability tests:
