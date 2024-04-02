@@ -1,14 +1,14 @@
-# Usability Tests and results
+# Usability Tests and Results
 
 To enhance our platform's user experience, we conducted usability testing, gathering direct feedback from users to ensure the platform is both efficient and enjoyable. 
 
-We involved two diverse group of participants, students and teachers (not done, yet), to reflect our user base's varied needs and conducted the testing in tasks. 
+We planned usability testings for the two main actors in our system, students and teachers. So far, we have conducted only usability testing with students and plan on doing it with teachers in the near future.
 
 The feedback from these sessions was crucial for understanding user's needs and to refine our platform. Our aim is to create a more intuitive and satisfying experience for all users, demonstrating our commitment to continuous improvement based on user feedback.
 
 ## On the prototype (Figma)
 
-On March 21st, we took a Usability test in person with 19 participants, 3 females and 16 males, from Human-Computer Interaction course, all young adults. We presented 5 differents tasks, which were:
+On March 21st, we took a Usability test in person with 19 participants, 3 females and 16 males, all Informatics students, from Human-Computer Interaction course, all young adults. We presented 5 differents tasks, which were:
 
 1. Log in and indicate how many master's dissertations are on the website and how many are available. 
 
@@ -40,6 +40,11 @@ With this data, it's also possible to calculate the SUS (System Usability Scale)
 
 ### Suggested Improvements and notes
 
-  
+The comments were mostly that the system, despite being used for the first time, was intuitive and easy to understand.
 
+It was suggested that we should have labels to clarify terms and expressions used. 
+
+We also noted that some participants were thinking that when "Escolhida" option appeared, the dissertation was chosed by the own user. Also, that notifications should be more clear with alerts.
+
+Lastly, we registered that Task 2 was completed using an extra step, because all information necessary was displayed on list dissertations, but some participants clicked on "Ver mais" button.  
   
