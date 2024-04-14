@@ -11,3 +11,5 @@ sidebar_position: 1
 [Calendar Project](/pdf/Calendar_PI.pdf)
 
 ## Milestone 2 - 12/3
+
+[M2 Presentation](/pdf/M2_-_DSD_Presentation.pdf)

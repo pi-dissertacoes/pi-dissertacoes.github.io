@@ -6,6 +6,8 @@
     - Makes use of the system as a potential user of the services provided by that system;
 - __Teacher__
     - Makes use of the system as a potential user of the services provided by that system;
+- __Course Director__
+    - Responsible for ensure that a given dissertation is only applied to that course, if applicable.
 - __Admin__
     - Responsible for ensuring that the system is properly working, and intermediate contact between the other actors.
 
@@ -44,6 +46,8 @@
 6. Remove a dissertation that belongs to me - Be able to remove a dissertation that I proposed;
 
 7. Receive email notifications about dissertations that I'm (co)orientating - Receive email notifications about the status of the dissertations that I have proposed, that I'm a co-advisor and the students that showed interest in them;
+
+### Course Director
 
 ### Admin
 
@@ -109,6 +113,8 @@ I want to be able to see the students that showed interest in a dissertation I p
 
 7. As a teacher  
 I want to receive email notifications about the status of the dissertations that I have proposed, that I'm a co-advisor and the students that showed interest in them;
+
+### Course Director
 
 ### Admin
 
