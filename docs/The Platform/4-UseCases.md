@@ -7,14 +7,14 @@
 - __Teacher__
     - Makes use of the system as a potential user of the services provided by that system;
 - __Course Director__
-    - Responsible for ensure that a given dissertation is only applied to that course, if applicable.
+    - Responsible for managing dissertations related to that given course;
 - __Admin__
     - Responsible for ensuring that the system is properly working, and intermediate contact between the other actors.
 
 ## Use Case UML Diagrams
 
 <p align="center">
-    ![Use Case diagram](../../static/img/requirements/use_case_diagram.svg)
+    ![Use Case diagram](../../static/img/requirements/use_case_diagram_V2.svg)
 </p>
 
 ### Student
@@ -49,11 +49,15 @@
 
 ### Course Director
 
+1. Accept the use of his/her course in a dissertation - After a given dissertation has been uplodaded and acepted by the admnistrator, the course director can accept/deny the use of his/her course in that particular dissertation
+
+2. Break a dissertation agreement between a student and a teacher - After both the student and the teacher agree on break the previous agreement, the course director can confirm that intetion.
+
 ### Admin
 
 1. See all dissertations uploaded to the website - Be able to see all the dissertations that are in the platform and, with the help of a search bar, get faster to specific dissertations;
 
-2. Accept or deny dissertation proposal - Accept or deny a dissertation proposal, sdepending on the quality of the proposal and other aspects that influence the decision to accept or deny it;
+2. Accept or deny dissertation proposal - Accept or deny a dissertation proposal, depending on the quality of the proposal and other aspects that influence the decision to accept or deny it;
 
 3. Close and open the Dissertation Season - Be able to open and close the dissertation season, so that no more dissertations can be added for the respective academic year;
 
@@ -115,6 +119,15 @@ I want to be able to see the students that showed interest in a dissertation I p
 I want to receive email notifications about the status of the dissertations that I have proposed, that I'm a co-advisor and the students that showed interest in them;
 
 ### Course Director
+
+1. As a course director
+I want to be able to see all dissertations that belong to my course;
+
+2. As a course director
+I want to accept/deny if a dissertation is/isn't applicable to student enrolled on the course I am director;
+
+3. As a couse director
+I want to be able to break an agreement between an student and teacher, if they both agree on that;
 
 ### Admin
 
