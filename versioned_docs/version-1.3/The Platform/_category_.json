@@ -1,0 +1,8 @@
+{
+  "label": "About the platform",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "This section provides an overview of the platform and its features. It describes the platform's requirements (as user stories and use cases), architecture and tech stack (and why we choose it)."
+  }
+}
