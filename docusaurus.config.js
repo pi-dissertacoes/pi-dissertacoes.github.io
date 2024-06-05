@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "DSD",
-  tagline: "Serviço Docente",
+  title: "DISSERTAÇÕES",
+  tagline: "Dissertations Made Simple",
   favicon: "img/icons/logo_min.svg",
 
   //staticDirectories: ['static'],
@@ -60,7 +60,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "DSD",
+        title: "DISSERTAÇÕES",
         logo: {
           alt: "dsd_logo",
           src: "img/icons/logo_min.svg",
@@ -76,6 +76,11 @@ const config = {
             label: "Documentation",
           },
           { to: "/milestones", label: "Milestones", position: "left" },
+          {
+            href: "https://dissertacoes.av.it.pt/",
+            label: "Our Website",
+            position: "right",
+          },
           {
             href: "https://github.com/detiuaveiro/dsd",
             label: "GitHub",
@@ -103,7 +108,7 @@ const config = {
           height: 24,
         },
         copyright: `Projeto em Informática <br>
-        Serviço Docente
+        Dissertações
         <br> Copyright © ${new Date().getFullYear()}`,
       },
       prism: {

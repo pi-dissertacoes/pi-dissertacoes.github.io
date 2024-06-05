@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require("@site/static/img/easy-to-use.svg").default,
     description: (
       <>
-        DSD is designed to be easy to use and easy to learn. With a modern and
-        intuitive interface, DSD is perfect for you to choose/publish your
+        Dissertações is designed to be easy to use and easy to learn. With a modern and
+        intuitive interface, Dissertações is perfect for you to choose/publish your
         dissertation theme without a legacy interface.
       </>
     ),
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require("@site/static/img/agreement.svg").default,
     description: (
       <>
-        DSD lets you focus on the only thing that matters: your choice. You can
+        Dissertações lets you focus on the only thing that matters: your choice. You can
         sit back and relax while we take care of the complicated stuff, like the
         publishing and agreement process.
       </>
@@ -31,7 +31,7 @@ const FeatureList = [
     description: (
       <>
         Don't miss anything! From new dissertation themes to your precious
-        notifications, DSD will keep you updated with the latest updates, while
+        notifications, Dissertações will keep you updated with the latest updates, while
         updating you about your notifications.
       </>
     ),
