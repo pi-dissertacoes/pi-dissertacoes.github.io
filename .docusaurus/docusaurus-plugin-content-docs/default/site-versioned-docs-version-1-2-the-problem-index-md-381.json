@@ -1,0 +1,25 @@
+{
+  "id": "The Problem/index",
+  "title": "Context and State of The Art (SOA)",
+  "description": "In the context of dissertation and internships choice, nowadays Aveiro University (UA) has different ways to deal with this problematic. In the Department of Electronics, Telecommunications and Informatics (DETI), this choice is being supported by a platform developed by a group of DETI students in the 2000s, which is available at http://sd.web.ua.pt.",
+  "source": "@site/versioned_docs/version-1.2/The Problem/index.md",
+  "sourceDirName": "The Problem",
+  "slug": "/The Problem/",
+  "permalink": "/docs/1.2/The Problem/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.2",
+  "frontMatter": {
+    "sidebarPosition": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About the project",
+    "permalink": "/docs/1.2/category/about-the-project"
+  },
+  "next": {
+    "title": "About the platform",
+    "permalink": "/docs/1.2/category/about-the-platform"
+  }
+}

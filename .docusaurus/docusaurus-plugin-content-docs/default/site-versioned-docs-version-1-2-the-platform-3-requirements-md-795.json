@@ -1,0 +1,24 @@
+{
+  "id": "The Platform/Requirements",
+  "title": "Requirements",
+  "description": "Functional",
+  "source": "@site/versioned_docs/version-1.2/The Platform/3-Requirements.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/Requirements",
+  "permalink": "/docs/1.2/The Platform/Requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.2",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/1.2/The Platform/Deployment"
+  },
+  "next": {
+    "title": "Use Cases",
+    "permalink": "/docs/1.2/The Platform/UseCases"
+  }
+}

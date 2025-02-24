@@ -1,0 +1,24 @@
+{
+  "id": "The Platform/architecture",
+  "title": "Architecture",
+  "description": "Architecture Diagram",
+  "source": "@site/versioned_docs/version-1.2/The Platform/1-architecture.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/architecture",
+  "permalink": "/docs/1.2/The Platform/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.2",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About the platform",
+    "permalink": "/docs/1.2/category/about-the-platform"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/docs/1.2/The Platform/Deployment"
+  }
+}

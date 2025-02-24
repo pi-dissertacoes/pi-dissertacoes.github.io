@@ -1,0 +1,405 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/next/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/action_flow",
+              "path": "/docs/next/The Backend Implementation/action_flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/api_Instances",
+              "path": "/docs/next/The Backend Implementation/api_Instances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/databases",
+              "path": "/docs/next/The Backend Implementation/databases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/docker_kubernetes",
+              "path": "/docs/next/The Backend Implementation/docker_kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/load_balancer",
+              "path": "/docs/next/The Backend Implementation/load_balancer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/architecture",
+              "path": "/docs/next/The Platform/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Deployment",
+              "path": "/docs/next/The Platform/Deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Heuristic_Evaluation",
+              "path": "/docs/next/The Platform/Heuristic_Evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Prototype",
+              "path": "/docs/next/The Platform/Prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Requirements",
+              "path": "/docs/next/The Platform/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/tecnologies",
+              "path": "/docs/next/The Platform/tecnologies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Usability Tests",
+              "path": "/docs/next/The Platform/Usability Tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/UseCases",
+              "path": "/docs/next/The Platform/UseCases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/demo",
+              "path": "/docs/next/The Problem/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/index",
+              "path": "/docs/next/The Problem/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-project",
+              "path": "/docs/next/category/about-the-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-platform",
+              "path": "/docs/next/category/about-the-platform",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/next/intro",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.3",
+          "label": "1.3",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/action_flow",
+              "path": "/docs/The Backend Implementation/action_flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/api_Instances",
+              "path": "/docs/The Backend Implementation/api_Instances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/databases",
+              "path": "/docs/The Backend Implementation/databases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/docker_kubernetes",
+              "path": "/docs/The Backend Implementation/docker_kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/load_balancer",
+              "path": "/docs/The Backend Implementation/load_balancer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/architecture",
+              "path": "/docs/The Platform/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Deployment",
+              "path": "/docs/The Platform/Deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Heuristic_Evaluation",
+              "path": "/docs/The Platform/Heuristic_Evaluation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Prototype",
+              "path": "/docs/The Platform/Prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Requirements",
+              "path": "/docs/The Platform/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/tecnologies",
+              "path": "/docs/The Platform/tecnologies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Usability Tests",
+              "path": "/docs/The Platform/Usability Tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/UseCases",
+              "path": "/docs/The Platform/UseCases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/demo",
+              "path": "/docs/The Problem/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/index",
+              "path": "/docs/The Problem/index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-project",
+              "path": "/docs/category/about-the-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-platform",
+              "path": "/docs/category/about-the-platform",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.2",
+          "label": "1.2",
+          "isLast": false,
+          "path": "/docs/1.2",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/1.2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/action_flow",
+              "path": "/docs/1.2/The Backend Implementation/action_flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/api_Instances",
+              "path": "/docs/1.2/The Backend Implementation/api_Instances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/databases",
+              "path": "/docs/1.2/The Backend Implementation/databases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/docker_kubernetes",
+              "path": "/docs/1.2/The Backend Implementation/docker_kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Backend Implementation/load_balancer",
+              "path": "/docs/1.2/The Backend Implementation/load_balancer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/architecture",
+              "path": "/docs/1.2/The Platform/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Deployment",
+              "path": "/docs/1.2/The Platform/Deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Prototype",
+              "path": "/docs/1.2/The Platform/Prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Requirements",
+              "path": "/docs/1.2/The Platform/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/tecnologies",
+              "path": "/docs/1.2/The Platform/tecnologies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Usability Tests",
+              "path": "/docs/1.2/The Platform/Usability Tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/UseCases",
+              "path": "/docs/1.2/The Platform/UseCases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/index",
+              "path": "/docs/1.2/The Problem/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-project",
+              "path": "/docs/1.2/category/about-the-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-platform",
+              "path": "/docs/1.2/category/about-the-platform",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/1.2/intro",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.1",
+          "label": "1.1",
+          "isLast": false,
+          "path": "/docs/1.1",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/1.1/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/architecture",
+              "path": "/docs/1.1/The Platform/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Prototype",
+              "path": "/docs/1.1/The Platform/Prototype",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/Requirements",
+              "path": "/docs/1.1/The Platform/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Platform/tecnologies",
+              "path": "/docs/1.1/The Platform/tecnologies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "The Problem/index",
+              "path": "/docs/1.1/The Problem/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-project",
+              "path": "/docs/1.1/category/about-the-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/about-the-platform",
+              "path": "/docs/1.1/category/about-the-platform",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/1.1/intro",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.0",
+          "label": "1.0",
+          "isLast": false,
+          "path": "/docs/1.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/1.0/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/1.0/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "The Problem/index",
+  "title": "Context",
+  "description": "From the project's specification",
+  "source": "@site/versioned_docs/version-1.1/The Problem/index.md",
+  "sourceDirName": "The Problem",
+  "slug": "/The Problem/",
+  "permalink": "/docs/1.1/The Problem/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.1",
+  "frontMatter": {
+    "sidebarPosition": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About the project",
+    "permalink": "/docs/1.1/category/about-the-project"
+  },
+  "next": {
+    "title": "About the platform",
+    "permalink": "/docs/1.1/category/about-the-platform"
+  }
+}

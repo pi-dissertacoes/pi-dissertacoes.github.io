@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/milestones",
+  "source": "@site/src/pages/milestones.mdx",
+  "title": "Our milestones",
+  "description": "Milestone 4 - 4/6",
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "unlisted": false
+}

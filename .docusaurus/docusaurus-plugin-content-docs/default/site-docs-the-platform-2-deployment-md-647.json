@@ -1,0 +1,24 @@
+{
+  "id": "The Platform/Deployment",
+  "title": "Deployment",
+  "description": "Deployment and Structural Diagram",
+  "source": "@site/docs/The Platform/2-Deployment.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/Deployment",
+  "permalink": "/docs/next/The Platform/Deployment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/next/The Platform/architecture"
+  },
+  "next": {
+    "title": "Requirements",
+    "permalink": "/docs/next/The Platform/Requirements"
+  }
+}

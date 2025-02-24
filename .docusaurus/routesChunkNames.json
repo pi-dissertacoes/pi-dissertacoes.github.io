@@ -1,0 +1,301 @@
+{
+  "/milestones-74e": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "5919652b"
+    },
+    "content": "5c29496e"
+  },
+  "/docs-7d8": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "e1798daa"
+    }
+  },
+  "/docs/1.0-beb": {
+    "__comp": "a7bd4aaa",
+    "version": "352e0155"
+  },
+  "/docs/1.0-2e3": {
+    "__comp": "a94703ab"
+  },
+  "/docs/1.0/intro-31e": {
+    "__comp": "17896441",
+    "content": "7bd8db71"
+  },
+  "/docs/1.1-ab0": {
+    "__comp": "a7bd4aaa",
+    "version": "c89c5c03"
+  },
+  "/docs/1.1-517": {
+    "__comp": "a94703ab"
+  },
+  "/docs/1.1/category/about-the-platform-4ac": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "32bf65f7"
+  },
+  "/docs/1.1/category/about-the-project-43d": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "81765a23"
+  },
+  "/docs/1.1/intro-170": {
+    "__comp": "17896441",
+    "content": "5f998a2f"
+  },
+  "/docs/1.1/The Platform/architecture-5be": {
+    "__comp": "17896441",
+    "content": "5b9448e7"
+  },
+  "/docs/1.1/The Platform/Prototype-d4a": {
+    "__comp": "17896441",
+    "content": "c9ddac82"
+  },
+  "/docs/1.1/The Platform/Requirements-c39": {
+    "__comp": "17896441",
+    "content": "04b92d5f"
+  },
+  "/docs/1.1/The Platform/tecnologies-8e9": {
+    "__comp": "17896441",
+    "content": "2f9fa75a"
+  },
+  "/docs/1.1/The Problem-dd4": {
+    "__comp": "17896441",
+    "content": "ed872df1"
+  },
+  "/docs/1.2-9bf": {
+    "__comp": "a7bd4aaa",
+    "version": "db6512d3"
+  },
+  "/docs/1.2-fe8": {
+    "__comp": "a94703ab"
+  },
+  "/docs/1.2/category/about-the-platform-65c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9b710c81"
+  },
+  "/docs/1.2/category/about-the-project-5f4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9e5f9de9"
+  },
+  "/docs/1.2/intro-18c": {
+    "__comp": "17896441",
+    "content": "ecab07fd"
+  },
+  "/docs/1.2/The Backend Implementation/action_flow-905": {
+    "__comp": "17896441",
+    "content": "9088c009"
+  },
+  "/docs/1.2/The Backend Implementation/api_Instances-a3e": {
+    "__comp": "17896441",
+    "content": "0250a302"
+  },
+  "/docs/1.2/The Backend Implementation/databases-9a4": {
+    "__comp": "17896441",
+    "content": "4e802c1b"
+  },
+  "/docs/1.2/The Backend Implementation/docker_kubernetes-301": {
+    "__comp": "17896441",
+    "content": "914c4764"
+  },
+  "/docs/1.2/The Backend Implementation/load_balancer-67c": {
+    "__comp": "17896441",
+    "content": "2992c2dc"
+  },
+  "/docs/1.2/The Platform/architecture-1c2": {
+    "__comp": "17896441",
+    "content": "28553e97"
+  },
+  "/docs/1.2/The Platform/Deployment-0e8": {
+    "__comp": "17896441",
+    "content": "e3893582"
+  },
+  "/docs/1.2/The Platform/Prototype-423": {
+    "__comp": "17896441",
+    "content": "ca7debc2"
+  },
+  "/docs/1.2/The Platform/Requirements-747": {
+    "__comp": "17896441",
+    "content": "795e0508"
+  },
+  "/docs/1.2/The Platform/tecnologies-f4d": {
+    "__comp": "17896441",
+    "content": "47d7e328"
+  },
+  "/docs/1.2/The Platform/Usability Tests-b64": {
+    "__comp": "17896441",
+    "content": "78d95470"
+  },
+  "/docs/1.2/The Platform/UseCases-80c": {
+    "__comp": "17896441",
+    "content": "b416781f"
+  },
+  "/docs/1.2/The Problem-91f": {
+    "__comp": "17896441",
+    "content": "381045a3"
+  },
+  "/docs/next-c0d": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/docs/next-5d5": {
+    "__comp": "a94703ab"
+  },
+  "/docs/next/category/about-the-platform-d21": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "6fa4100b"
+  },
+  "/docs/next/category/about-the-project-8db": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "30448691"
+  },
+  "/docs/next/intro-ad0": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/next/The Backend Implementation/action_flow-0e7": {
+    "__comp": "17896441",
+    "content": "3d201319"
+  },
+  "/docs/next/The Backend Implementation/api_Instances-67b": {
+    "__comp": "17896441",
+    "content": "f3d762fd"
+  },
+  "/docs/next/The Backend Implementation/databases-9fc": {
+    "__comp": "17896441",
+    "content": "43ee9435"
+  },
+  "/docs/next/The Backend Implementation/docker_kubernetes-37b": {
+    "__comp": "17896441",
+    "content": "0f199607"
+  },
+  "/docs/next/The Backend Implementation/load_balancer-36e": {
+    "__comp": "17896441",
+    "content": "f336c2fa"
+  },
+  "/docs/next/The Platform/architecture-5a8": {
+    "__comp": "17896441",
+    "content": "a65fd847"
+  },
+  "/docs/next/The Platform/Deployment-d09": {
+    "__comp": "17896441",
+    "content": "6475dea6"
+  },
+  "/docs/next/The Platform/Heuristic_Evaluation-548": {
+    "__comp": "17896441",
+    "content": "160b2294"
+  },
+  "/docs/next/The Platform/Prototype-a67": {
+    "__comp": "17896441",
+    "content": "24b888b4"
+  },
+  "/docs/next/The Platform/Requirements-e1a": {
+    "__comp": "17896441",
+    "content": "203ada26"
+  },
+  "/docs/next/The Platform/tecnologies-71a": {
+    "__comp": "17896441",
+    "content": "6097eb1c"
+  },
+  "/docs/next/The Platform/Usability Tests-57b": {
+    "__comp": "17896441",
+    "content": "8f7aa09c"
+  },
+  "/docs/next/The Platform/UseCases-e0a": {
+    "__comp": "17896441",
+    "content": "65ba2e19"
+  },
+  "/docs/next/The Problem/demo-8d1": {
+    "__comp": "17896441",
+    "content": "8f54b902"
+  },
+  "/docs/next/The Problem/index-89a": {
+    "__comp": "17896441",
+    "content": "93f5692d"
+  },
+  "/docs-100": {
+    "__comp": "a7bd4aaa",
+    "version": "ef801d26"
+  },
+  "/docs-f9e": {
+    "__comp": "a94703ab"
+  },
+  "/docs/category/about-the-platform-5ae": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "26c777da"
+  },
+  "/docs/category/about-the-project-71e": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b2d816c1"
+  },
+  "/docs/intro-1ee": {
+    "__comp": "17896441",
+    "content": "16568db6"
+  },
+  "/docs/The Backend Implementation/action_flow-ac8": {
+    "__comp": "17896441",
+    "content": "d1548ea9"
+  },
+  "/docs/The Backend Implementation/api_Instances-adf": {
+    "__comp": "17896441",
+    "content": "d077b411"
+  },
+  "/docs/The Backend Implementation/databases-76d": {
+    "__comp": "17896441",
+    "content": "7b6d0df9"
+  },
+  "/docs/The Backend Implementation/docker_kubernetes-f38": {
+    "__comp": "17896441",
+    "content": "4db3c7ae"
+  },
+  "/docs/The Backend Implementation/load_balancer-c43": {
+    "__comp": "17896441",
+    "content": "2e3fbb31"
+  },
+  "/docs/The Platform/architecture-c5e": {
+    "__comp": "17896441",
+    "content": "318f49df"
+  },
+  "/docs/The Platform/Deployment-7d5": {
+    "__comp": "17896441",
+    "content": "b3517ddf"
+  },
+  "/docs/The Platform/Heuristic_Evaluation-323": {
+    "__comp": "17896441",
+    "content": "b4bb51d9"
+  },
+  "/docs/The Platform/Prototype-27d": {
+    "__comp": "17896441",
+    "content": "966bf2cd"
+  },
+  "/docs/The Platform/Requirements-01b": {
+    "__comp": "17896441",
+    "content": "d412a937"
+  },
+  "/docs/The Platform/tecnologies-5b3": {
+    "__comp": "17896441",
+    "content": "555a6b4d"
+  },
+  "/docs/The Platform/Usability Tests-2c7": {
+    "__comp": "17896441",
+    "content": "cbff9507"
+  },
+  "/docs/The Platform/UseCases-631": {
+    "__comp": "17896441",
+    "content": "efcb2619"
+  },
+  "/docs/The Problem/demo-e11": {
+    "__comp": "17896441",
+    "content": "a4c8700b"
+  },
+  "/docs/The Problem/index-5d3": {
+    "__comp": "17896441",
+    "content": "75b26107"
+  },
+  "/-417": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "5919652b"
+    },
+    "config": "5e9f5e1a"
+  }
+}

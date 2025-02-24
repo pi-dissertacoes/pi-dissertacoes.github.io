@@ -1,0 +1,24 @@
+{
+  "id": "The Platform/UseCases",
+  "title": "Use Cases",
+  "description": "Actors",
+  "source": "@site/versioned_docs/version-1.2/The Platform/4-UseCases.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/UseCases",
+  "permalink": "/docs/1.2/The Platform/UseCases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.2",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requirements",
+    "permalink": "/docs/1.2/The Platform/Requirements"
+  },
+  "next": {
+    "title": "Prototype",
+    "permalink": "/docs/1.2/The Platform/Prototype"
+  }
+}

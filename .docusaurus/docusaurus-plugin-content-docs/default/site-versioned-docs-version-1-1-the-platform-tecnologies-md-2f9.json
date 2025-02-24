@@ -1,0 +1,19 @@
+{
+  "id": "The Platform/tecnologies",
+  "title": "Tech Stack",
+  "description": "In order to accomplish one of our goals - make the platform easy to maintain and make it as durable as possible - we did an exhaustive research on the topic of Tech Stack.",
+  "source": "@site/versioned_docs/version-1.1/The Platform/tecnologies.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/tecnologies",
+  "permalink": "/docs/1.1/The Platform/tecnologies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/1.1/The Platform/architecture"
+  }
+}

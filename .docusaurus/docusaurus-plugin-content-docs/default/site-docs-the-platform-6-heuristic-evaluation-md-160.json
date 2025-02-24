@@ -1,0 +1,24 @@
+{
+  "id": "The Platform/Heuristic_Evaluation",
+  "title": "Heuristic Evaluation",
+  "description": "In order for us to achieve a renewed platform, while keeping it simple and usable, we performed an heuristic evaluation on the existing platform. Despite being quite old, we were amazed by its usability.",
+  "source": "@site/docs/The Platform/6-Heuristic_Evaluation.md",
+  "sourceDirName": "The Platform",
+  "slug": "/The Platform/Heuristic_Evaluation",
+  "permalink": "/docs/next/The Platform/Heuristic_Evaluation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prototype",
+    "permalink": "/docs/next/The Platform/Prototype"
+  },
+  "next": {
+    "title": "Usability Tests and Results",
+    "permalink": "/docs/next/The Platform/Usability Tests"
+  }
+}

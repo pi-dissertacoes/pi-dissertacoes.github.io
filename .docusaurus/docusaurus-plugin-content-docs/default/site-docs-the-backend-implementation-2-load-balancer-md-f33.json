@@ -1,0 +1,24 @@
+{
+  "id": "The Backend Implementation/load_balancer",
+  "title": "Load Balancer",
+  "description": "architecture diagram",
+  "source": "@site/docs/The Backend Implementation/2-load_balancer.md",
+  "sourceDirName": "The Backend Implementation",
+  "slug": "/The Backend Implementation/load_balancer",
+  "permalink": "/docs/next/The Backend Implementation/load_balancer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Action Flow",
+    "permalink": "/docs/next/The Backend Implementation/action_flow"
+  },
+  "next": {
+    "title": "API Instances",
+    "permalink": "/docs/next/The Backend Implementation/api_Instances"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "The Backend Implementation/action_flow",
+  "title": "Action Flow",
+  "description": "architecture diagram",
+  "source": "@site/versioned_docs/version-1.2/The Backend Implementation/1-action_flow.md",
+  "sourceDirName": "The Backend Implementation",
+  "slug": "/The Backend Implementation/action_flow",
+  "permalink": "/docs/1.2/The Backend Implementation/action_flow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "1.2",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech Stack",
+    "permalink": "/docs/1.2/The Platform/tecnologies"
+  },
+  "next": {
+    "title": "Load Balancer",
+    "permalink": "/docs/1.2/The Backend Implementation/load_balancer"
+  }
+}
