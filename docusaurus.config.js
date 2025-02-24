@@ -18,12 +18,12 @@ const config = {
   url: "https://pi-dsd.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/microsite/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "pi-dsd", // Usually your GitHub org/user name.
-  projectName: "microsite", // Usually your repo name.
+  organizationName: "pi-dissertacoes", // Usually your GitHub org/user name.
+  projectName: "pi-dissertacoes.github.io", // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -103,7 +103,7 @@ const config = {
         logo: {
           alt: 'Our repo Logo',
           src: '/img/icons/github-mark-white.svg',
-          href: 'https://github.com/pi-dsd/microsite',
+          href: 'https://github.com/pi-dissertacoes/pi-dissertacoes.github.io',
           width: 24,
           height: 24,
         },
