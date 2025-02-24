@@ -103,7 +103,7 @@ const config = {
         logo: {
           alt: 'Our repo Logo',
           src: '/img/icons/github-mark-white.svg',
-          href: 'https://github.com/pi-dissertacoes/pi-dissertacoes.github.io',
+          href: 'https://github.com/pi-dissertacoes',
           width: 24,
           height: 24,
         },
