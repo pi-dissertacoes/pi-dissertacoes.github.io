@@ -14,6 +14,9 @@ const config = {
 
   //staticDirectories: ['static'],
 
+  // Set the deployment branch
+  deploymentBranch: "gh-pages",
+
   // Set the production url of your site here
   url: "https://pi-dsd.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
