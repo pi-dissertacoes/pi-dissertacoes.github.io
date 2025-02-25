@@ -46,6 +46,8 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
+          // Don't include "next" version in the website
+          includeCurrentVersion: false,
         },
         blog: {
           showReadingTime: true,
