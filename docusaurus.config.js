@@ -18,7 +18,7 @@ const config = {
   deploymentBranch: "gh-pages",
 
   // Set the production url of your site here
-  url: "https://pi-dsd.github.io",
+  url: "https://pi-dissertacoes.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -94,11 +94,11 @@ const config = {
             label: "Backlog",
             position: "right",
           },
-          {
-            href: "https://drive.google.com/drive/folders/1vwznbTZrtqVU5NMSli3AQfWFhG4GNvT2?usp=sharing",
-            label: "Drive",
-            position: "right",
-          },
+          //{
+          //  href: "https://drive.google.com/drive/folders/1vwznbTZrtqVU5NMSli3AQfWFhG4GNvT2?usp=sharing",
+          //  label: "Drive",
+          //  position: "right",
+          //},
         ],
       },
       footer: {
