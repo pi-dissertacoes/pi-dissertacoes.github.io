@@ -14,7 +14,7 @@
 ## Use Case UML Diagrams
 
 <p align="center">
-    ![Use Case diagram](../../static/img/requirements/use_case_diagram_V2.svg)
+    ![Use Case diagram](/img/requirements/use_case_diagram_V2.svg)
 </p>
 
 ### Student

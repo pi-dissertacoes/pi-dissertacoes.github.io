@@ -5,5 +5,5 @@
 A simple deployment diagram and infrastructure mapping 
 
 <p align="center">
-    ![architecture diagram](../../static/img/deployment.png)
+    ![architecture diagram](/img/deployment.png)
 </p>

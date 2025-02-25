@@ -1,7 +1,7 @@
 # Load Balancer
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/nginx.png)
+    ![architecture diagram](/img/nginx.png)
 </p>
 
 ---

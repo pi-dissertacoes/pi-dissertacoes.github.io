@@ -1,7 +1,7 @@
 # Databases
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/databases_nobg.png)
+    ![architecture diagram](/img/databases_nobg.png)
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ This allows the better utilization of each database's **core strengths** as they
 ### Main Database
 
   <p align="center">
-      ![architecture diagram](../../static/img/mongodb.png)
+      ![architecture diagram](/img/mongodb.png)
   </p>
 
  The **models** mentioned previously as well as most of the data processed are **saved in the Main Database**.
@@ -56,7 +56,7 @@ This allows the better utilization of each database's **core strengths** as they
 ### File Storage 
 
   <p align="center">
-      ![architecture diagram](../../static/img/cloud_storage.png)
+      ![architecture diagram](/img/cloud_storage.png)
   </p>
 
  **Storing large files** (ex: PDF files from dissertations or dissertation logos) would take a lot of **I/O throughput** away from the rest of the Main Database as well as use a lot of the machine's available **storage space**.
@@ -72,7 +72,7 @@ This allows the better utilization of each database's **core strengths** as they
 ### Configuration Database 
 
   <p align="center">
-      ![architecture diagram](../../static/img/mariadb.png)
+      ![architecture diagram](/img/mariadb.png)
   </p>
 
  Since **there can be a lot of API Instances running at any given time**, changes made to the configuration must be made in such a way that all the instances must pick up the new changes as soon as they use them. 

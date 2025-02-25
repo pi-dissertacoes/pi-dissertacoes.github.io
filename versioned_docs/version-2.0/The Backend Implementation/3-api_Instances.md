@@ -1,7 +1,7 @@
 # API Instances
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/python_fastapi.png)
+    ![architecture diagram](/img/python_fastapi.png)
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## The FastAPI implementation
 
 <p align="center">
-    ![architecture diagram](../../static/img/fastapi.png)
+    ![architecture diagram](/img/fastapi.png)
 </p>
 
  The final API codebase was divided into **multiple subsections**:

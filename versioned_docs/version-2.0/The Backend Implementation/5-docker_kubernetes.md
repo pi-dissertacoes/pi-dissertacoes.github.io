@@ -1,7 +1,7 @@
 # Docker And Kubernetes
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/docker_all.png)
+    ![architecture diagram](/img/docker_all.png)
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ## Docker Compose
 
 <p align="center">
-    ![architecture diagram](../../static/img/docker-compose.png)
+    ![architecture diagram](/img/docker-compose.png)
 </p>
 
  [Docker Compose](https://docs.docker.com/compose/) was used as the primary **container orchestrator**.
@@ -43,7 +43,7 @@
 ### Docker Containers
 
 <p align="center">
-    ![architecture diagram](../../static/img/docker.png)
+    ![architecture diagram](/img/docker.png)
 </p>
 
  For the dockerization of our application, the following containers were defined:
@@ -79,7 +79,7 @@
 ## Kubernetes
 
 <p align="center">
-    ![architecture diagram](../../static/img/kubernetes.png)
+    ![architecture diagram](/img/kubernetes.png)
 </p>
 
  A [Kubernetes](https://kubernetes.io/) implementation was **partially implemented**, but would require more work to be put into it in order to be production ready.

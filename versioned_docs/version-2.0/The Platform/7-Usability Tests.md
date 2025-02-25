@@ -24,17 +24,17 @@ On March 21st, we took a Usability test in person with 19 participants, 3 female
 
 We registered a 96.8% task completion ratio. Below, it's possible to see all tasks and if the participant completed it or not.
 
-![Use Case diagram](../../static/img/completedTasks.png)
+![Use Case diagram](/img/completedTasks.png)
 
 We also registered a 78.9% task success rate, i.e. if the participant reached the right answers.
 
-![Use Case diagram](../../static/img/successTasks.png)
+![Use Case diagram](/img/successTasks.png)
 
 After finishing the tasks, we presented a post-task questionnaire. The following figure that it's shown has this property:
 
 On even numbered questions the best score is 5 and on odd numbered questions the best score is 1.
 
-![Use Case diagram](../../static/img/ASQ.png)
+![Use Case diagram](/img/ASQ.png)
 
 With this data, it's also possible to calculate the SUS (System Usability Scale) score, which is 91, and because it's greater than 68, this means that the system is considered to be usable.
 

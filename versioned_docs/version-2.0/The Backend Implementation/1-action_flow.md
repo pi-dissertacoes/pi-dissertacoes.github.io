@@ -1,7 +1,7 @@
 # Action Flow
 <br/>
 <p align="center">
-    ![architecture diagram](../../static/img/backend.png)
+    ![architecture diagram](/img/backend.png)
 </p>
 
 <p align="center">
