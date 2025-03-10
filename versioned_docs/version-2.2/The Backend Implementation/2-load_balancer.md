@@ -10,7 +10,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Load Balancer](#load-balancer)
+- [Load Balancer](#)
   - [Table of Contents](#table-of-contents)
   - [NGINX](#nginx)
 

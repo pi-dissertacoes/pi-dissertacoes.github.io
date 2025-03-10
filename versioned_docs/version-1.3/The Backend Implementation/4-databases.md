@@ -14,7 +14,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Databases](#databases)
+- [Databases](#)
   - [Table of Contents](#table-of-contents)
   - [Databases](#databases-1)
     - [Main Database](#main-database)

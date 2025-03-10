@@ -6,15 +6,12 @@
 
 ---
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Load Balancer](#load-balancer)
+- [Load Balancer](#)
   - [Table of Contents](#table-of-contents)
   - [NGINX](#nginx)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 

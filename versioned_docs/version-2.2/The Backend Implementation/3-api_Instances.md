@@ -10,7 +10,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [API Instances](#api-instances)
+- [API Instances](#)
   - [Table of Contents](#table-of-contents)
   - [Why Python and FastAPI](#why-python-and-fastapi)
   - [The FastAPI implementation](#the-fastapi-implementation)

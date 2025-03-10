@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-  The containarization technologies utilized
+  The containerization technologies utilized
 </p>
 
 ---
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Docker And Kubernetes](#docker-and-kubernetes)
+- [Docker And Kubernetes](#)
   - [Table of Contents](#table-of-contents)
   - [Docker Compose](#docker-compose)
     - [Docker Containers](#docker-containers)
@@ -22,7 +20,6 @@
     - [Docker Volumes](#docker-volumes)
   - [Kubernetes](#kubernetes)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 
