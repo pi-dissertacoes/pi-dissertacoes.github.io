@@ -16,7 +16,7 @@
 ## Use Case UML Diagrams
 
 <p align="center">
-    ![Use Case diagram](../../../static/img/use_cases_2.png)
+    ![Use Case diagram](../../../static/img/use_cases_3.png)
 </p>
 
 ### Student
@@ -37,6 +37,8 @@
 
 8. Sign the copyright declaration, declaration of acceptance signed by the jury and the final and complete version of the dissertation;
 
+9. See the dissertation defense date - See the date and room of defense in the defense details modal;
+
 ### Professor
 
 1. See all dissertations uploaded to the website - View all dissertation proposals in the form of a list, with the help of a search bar, get faster to specific dissertations;
@@ -53,13 +55,19 @@
 
 7. Receive email notifications about dissertations that I'm (co)orientating - Receive email notifications about the status of the dissertations that I have proposed, that I'm a co-advisor and the students that showed interest in them;
 
+8. View document status of his/her disseratitions - See the status of all the documents submited by him or by the student of his dissertations;
+
+9. Submission of jury proposal - Submit the jury proposal document;
+
 ### Course Director
 
 1. Accept the use of his/her course in a dissertation - After a given dissertation has been uploaded and accepted by the administrator, the course director can accept/deny the use of their course in that particular dissertation;
 
 2. Break a dissertation agreement between a student and a professor - After both the student and the professor agree on break the previous agreement, the course director can confirm that intention;
 
-3. Submission of a jury proposal;
+3. Submission of a jury president;
+
+4. View document status of his/her disseratitions - See the status of all the documents submited by him or by the student of his dissertations;
 
 ### Admin
 
@@ -77,13 +85,21 @@
 
 7. Add and manage secretariat accounts;
 
+8. Add and manage course directors;
+
+9. Add and manage courses and areas;
+
 ### Secretariat
 
 1. View all dissertations on the platform;
 
-2. Secretariat checks the student's tuition status and approves regular cases;
+2. Approval/denial of the dissertations documents;
  
-3. Approval/denial of the dissertation taking into account the rules;
+3. See the chosen president;
+
+4. Schedule the defense of the test for the student;
+
+5. Receive a email Notifican when a student submits a document;
 
 
 ## User stories
@@ -113,6 +129,9 @@ I want to receive email notifications about the status of the dissertations that
 7. As a student   
 I want to check regularly the status of the dissertations that I have shown interest in and others.
 
+8. As a student
+I want to check the details of my defense date.
+
 ### Teacher
 
 1. As a professor  
@@ -136,6 +155,12 @@ I want to be able to see the students that showed interest in a dissertation I p
 7. As a professor  
 I want to receive email notifications about the status of the dissertations that I have proposed, that I'm a co-advisor and the students that showed interest in them;
 
+8. As a professor
+I want to see what are the document status of my dissertations;
+
+9. As a professor 
+I want to submit the jury proposal document;
+
 ### Course Director
 
 1. As a course director
@@ -146,6 +171,12 @@ I want to accept/deny if a dissertation is/isn't applicable to student enrolled 
 
 3. As a course director
 I want to be able to break an agreement between a student and professor, if they both agree on that;
+
+4. As a course director
+I want to see what are the document status of my dissertations;
+
+5. As a course director 
+I want to chose the president of the jury;
 
 ### Admin
 
@@ -168,4 +199,19 @@ I want to be able to assign new admins, given enough permission to obtain more h
 I want to receive email notifications about new dissertations that were submitted, for me to either approve or deny them;
 
 7. As an admin  
-I want to see all the dissertations that are in the platform and, with the help of a search bar, get faster to specific dissertations.
+I want to see all the dissertations that are in the platform and, with the help of a search bar, get faster to specific dissertations;
+
+### Secretariat
+
+1. As a Secretariat 
+I want to validate the documents;
+
+2. As a Secretariat 
+I want to see who is the president of the jury of a dissertations;
+
+3. As a Secretariat 
+I want to schedule the defense of the test for a student using the student nmec or the dissertation id;
+
+4. As a Secretariat 
+I want to receive email notifications about the submited documents;
+
